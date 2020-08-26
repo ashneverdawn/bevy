@@ -114,6 +114,10 @@ name = "empty_defaults"
 path = "examples/app/empty_defaults.rs"
 
 [[example]]
+name = "dynamic_plugin_loading"
+path = "examples/app/dynamic_plugin_loading/main.rs"
+
+[[example]]
 name = "empty"
 path = "examples/app/empty.rs"
 
